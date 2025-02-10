@@ -4,7 +4,6 @@ import torchvision.models as models
 from PIL import Image
 from fastapi import FastAPI, File, UploadFile, HTTPException
 from io import BytesIO
-import json
 import requests
 
 

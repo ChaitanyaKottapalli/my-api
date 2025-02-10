@@ -1,0 +1,6 @@
+torch
+torchvision
+PIL
+fastapi
+io
+requests
