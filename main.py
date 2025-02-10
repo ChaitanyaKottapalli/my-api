@@ -19,7 +19,7 @@ num_ftrs = model.classifier.in_features
 model.classifier = torch.nn.Linear(num_ftrs, len(class_labels))
 
 # Load trained weights
-model.load_state_dict(torch.load('C:/Users/Chait/Desktop/API_Practise/densenet121_animals10.pth', map_location="cpu"))
+model.load_state_dict(torch.load('densenet121_animals10.pth', map_location="cpu"))
 model.eval()  # Set model to evaluation mode
 
 
