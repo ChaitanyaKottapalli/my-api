@@ -4,3 +4,4 @@ PIL
 fastapi
 io
 requests
+uvicorn
