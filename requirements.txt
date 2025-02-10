@@ -5,3 +5,4 @@ fastapi
 Python-IO
 requests
 uvicorn
+python-multipart
