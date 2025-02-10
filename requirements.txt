@@ -1,6 +1,6 @@
 torch
 torchvision
-PIL
+PIL==8.4.0
 fastapi
 io
 requests
