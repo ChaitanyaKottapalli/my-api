@@ -2,6 +2,6 @@ torch
 torchvision
 Pillow
 fastapi
-io
+Python-IO
 requests
 uvicorn
